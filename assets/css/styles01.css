@@ -1,0 +1,16 @@
+
+
+.Container{
+     
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh
+}
+#Img01{
+        
+        height: 400px;
+        width: 400px;
+
+
+}
